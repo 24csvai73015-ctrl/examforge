@@ -92,4 +92,4 @@ If you prefer to run ExamForge entirely offline:
 
 ## Testing
 
-Tested using [TestGrid](https://testgrid.io) to ensure a smooth and reliable experience.
+Tested using [TestGrid.io](https://testgrid.io) to ensure a smooth and reliable experience.
